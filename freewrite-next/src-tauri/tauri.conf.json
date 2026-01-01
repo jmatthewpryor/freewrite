@@ -48,15 +48,5 @@
       "signingIdentity": null
     }
   },
-  "plugins": {
-    "fs": {
-      "scope": {
-        "allow": ["$DOCUMENT/**", "$HOME/Documents/**"],
-        "deny": []
-      }
-    },
-    "shell": {
-      "open": true
-    }
-  }
+  "plugins": {}
 }
